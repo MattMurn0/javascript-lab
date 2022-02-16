@@ -1,4 +1,4 @@
-fetch("./assets/data.json").then(d=>d.json()).then(data=>{
+fetch("assets/data.json").then(d=>d.json()).then(data=>{
 	console.log("data::",data);
 
 	const urlParams = new URLSearchParams(window.location.search);
