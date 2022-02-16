@@ -1,0 +1,33 @@
+{
+	"about":{
+		"name":"Matthew Murno",
+        "title":"Computer Science major at Boston College",
+        "photo":"assets/profile.jpg"
+	},
+	"news":[
+		{
+			"title": "Working on HTML",
+			"date": "Feb 2 2022"
+		}
+	],
+	"projects":[
+		{
+			"id":"Resumewebsite",
+            "title": "Resume website with some react integration",
+            "authors": "Matthew Murno",
+            "source": "Web Page Created by Matthew Murno",
+            "teaser": "assets/Resumewebsite/unfinished.png",
+            "tags":["Programming"],
+            "description": "Web Page Created by Matthew Murno"
+		},
+		{
+			"id":"Animatedscreens",
+            "title": "Animated loading screens for twitch.tv streams",
+            "authors": "Matthew Murno",
+            "source": "Created by Matthew Murno",
+            "teaser": "assets/Animatedscreens/Animatedscreens.gif",
+            "tags":["Adobe"],
+            "description": "Web Page Created by Matthew Murno"
+		}
+	]	
+}
