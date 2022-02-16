@@ -2,7 +2,7 @@
 	"about":{
 		"name":"Matthew Murno",
         "title":"Computer Science major at Boston College",
-		"photo":"assets/profile.jpg",
+		"photo":"Assets/profile.jpg",
 		"email":"murno@bc.edu",
 		"github": "https://github.com/MattMurn0"
 	},
@@ -37,7 +37,7 @@
 		"id":"Resumewebsite",
 		"title": "Resume website with some react integration",
 		"source": "Web Page Created by Matthew Murno",
-		"teaser": "assets/Resumewebsite/unfinished.png",
+		"teaser": "Assets/Resumewebsite/unfinished.png",
 		"tags":["Programming"],
 		"description": "This is a project that I had started a while ago on my Linux virtual machine. I wanted to learn how to code Javascript and React, however I didn't spend enough time learning the basics, and my lack of project experience led me to fall short of finishing. I hope that with the skills I learn in Web Application Development, I could finish this project, and make the webpage I was picturing instead of what it turned out to be."
 		},
@@ -45,7 +45,7 @@
 		"id":"Animatedscreens",
 		"title": "Animated loading screens for twitch.tv streams",
 		"source": "Created by Matthew Murno",
-		"teaser": "assets/Animatedscreens/Animatedscreens.gif",
+		"teaser": "Assets/Animatedscreens/Animatedscreens.gif",
 		"tags":["Adobe"],
 		"description": "To complete this project I needed to learn how to use Adobe After Affects. I learned how to animate typing on a screen, as well as animate different transitions. I learned a lot about myself and my creativy by working on this project"
 		}
@@ -55,7 +55,7 @@
 		"id":"Politicalad",
 		"title": "Political Ad Project",
 		"source": "Images by Matthew Murno",
-		"teaser": "assets/PoliticalAd/Ad1.jpg",
+		"teaser": "Assets/PoliticalAd/Ad1.jpg",
 		"tags":["Adobe"],
 		"description": "This project was inspired by Marvel Comics, and I used my creativy to create an interesting advertisment to promote climate reform using the skills I had learned in my Intro to Adobe Photoshop and Illustrator class last semester. I believe I had a good grasp over these skills"
 		}
